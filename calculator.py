@@ -13,5 +13,12 @@ def divide(a,b):
  else:
   return "NULL"
 
-print("Pr0sToi kAlkulAt0r")
-print("OpErAtor: +,-,*,/")
+def power(a, b)
+ return a ** b 
+
+def square_root(a)
+ return a ** 0.5
+
+print("Улучшенный калькулятор")
+print("OpErAtor: +,-,*,/,^,sqrt")
+bash
